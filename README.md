@@ -26,22 +26,19 @@ class CreateMan extends AlpSu {
     void "coding... ❤️"
   }
   
-  private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms));
-}
+  private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
   
-  createDay() {
-    Promise.all([
+  async createDay() {
     this._eating()
     this._coding()
     await this._sleep(18000000)
     
-    this.create()
-    ])
+    this.createDay()
   }
   
 }
 
-let AlpSu = new CreateMan()
+let Alpsu = new CreateMan()
 AlpSu.createDay();
 ```
 
