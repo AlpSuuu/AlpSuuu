@@ -39,7 +39,7 @@ class CreateMan extends AlpSu {
 }
 
 let Alpsu = new CreateMan()
-AlpSu.createDay();
+Alpsu.createDay();
 ```
 
 ## 🔧 Languages
