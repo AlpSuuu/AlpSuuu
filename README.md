@@ -14,7 +14,7 @@ class AlpSu {
 }
 
 class CreateMan extends AlpSu {
-    constructor(...options) {
+  constructor(...options) {
     super(options);
   }
   
