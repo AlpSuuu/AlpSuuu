@@ -45,7 +45,9 @@ Alpsu.createDay();
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/721391768255594577?theme=dark&bg=00ff7c&animated=true&hideDiscrim=false&borderRadius=1px)](https://discord.com/users/721391768255594577)
 
 
-
+*
+*
+*
 ## 🔧 Languages
 - ![](https://img.shields.io/badge/OS-Linux-black?style=flat-square&logo=linux&logoColor=blue)
 - ![](https://img.shields.io/badge/Editor-VHEditor-brightgreen?style=flat-square&logo=visual-studio-code&logoColor=cyan)
