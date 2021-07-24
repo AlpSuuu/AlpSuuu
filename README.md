@@ -41,6 +41,8 @@ class CreateMan extends AlpSu {
 let Alpsu = new CreateMan()
 Alpsu.createDay();
 ```
+## Me :)    
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/721391768255594577?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/721391768255594577)
 
 ## 🔧 Languages
 - ![](https://img.shields.io/badge/OS-Linux-black?style=flat-square&logo=linux&logoColor=blue)
@@ -70,8 +72,12 @@ Alpsu.createDay();
 </a>
 
 
-# 📞 Contact
-- [Instagram](https://instagram.com/_r00kie._)
-- [Website](https://alpsu-u-teala.glitch.me)
-- [Discord](https://discord.gg/alpsu)
-- [Gmail](mailto:alpkahya868@gmail.com?body=Merhaba)
+<h3>🌟 Contacts!</h3>
+<p align="center">
+     <a href="https://www.instagram.com/_r00kie._/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+       <a href="https://twitch.tv/AlpSuuu" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+ <a href="https://open.spotify.com/user/5ksbqa8t6kdo38dmfi8nof51z?si=7389677a8b2e44ed" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+     <a href="mailto:alpkahya868@gmail.com?body=Merhaba" target"blank_"><img src="https://img.shields.io/badge/Gmail-a-brightgreen"></a>
+      <a href="https://alpsu-u-teala.glitch.me" target"blank_"><img src="https://img.shields.io/badge/Website-fun-bluen"></a>
+
+</p>
