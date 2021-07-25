@@ -22,7 +22,7 @@ class CreateMan extends AlpSu {
     void "eating 🍔 🍟 🍗 🥤"
   }
   
-  private _codeing() {
+  private _coding() {
     void "coding... ❤️"
   }
   
