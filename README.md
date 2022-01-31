@@ -74,8 +74,11 @@ Alpsu.createDay();
 <a href="https://github.com/AlpSuuu/register">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlpSuuu&repo=register&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AlpSuu Register" />
 </a>
-<a href="https://github.com/AlpSuuu/register">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlpSuuu&repo=classes-function&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AlpSuu Register" />
+<a href="https://github.com/AlpSuuu/classes-function">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlpSuuu&repo=classes-function&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AlpSuu classes-function" />
+</a>
+<a href="https://github.com/AlpSuuu/instagramDownloader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlpSuuu&repo=instagramDownloader&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AlpSuu instagramDownloader" />
 </a>
 
 
