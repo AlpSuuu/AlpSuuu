@@ -87,4 +87,4 @@ Alpsu.createDay();
 
 </p>
 
-[takipçiler](https://github.com/AlpSuuu/tab?=followers)
+https://komarev.com/ghpvc/?username=AlpSuuu
