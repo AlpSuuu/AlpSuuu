@@ -87,4 +87,4 @@ Alpsu.createDay();
 
 </p>
 
-https://komarev.com/ghpvc/?username=AlpSuuu
+[Ziyaret Sayısı](https://komarev.com/ghpvc/?username=AlpSuuu)
