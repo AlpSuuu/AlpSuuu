@@ -87,4 +87,6 @@ Alpsu.createDay();
 
 </p>
 
-[Ziyaret Sayısı](https://komarev.com/ghpvc/?username=AlpSuuu)
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=AlpSuuu&color=red"/>
+</div>  
