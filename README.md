@@ -63,11 +63,6 @@ Alpsu.createDay();
 </a>
 
 
-## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlpSuuu&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 ## 🗂️ Projects
 
 <a href="https://github.com/AlpSuuu/register">
