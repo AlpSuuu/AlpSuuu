@@ -91,3 +91,5 @@ Alpsu.createDay();
           <a href="https://alpsu-u-teala.glitch.me" target"blank_"><img src="https://img.shields.io/badge/Website-ff0004?style=for-the-badge&logo=google&logoColor=white"></a>
 
 </p>
+
+[takipçiler](https://github.com/AlpSuuu/tab?=followers)
