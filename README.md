@@ -42,6 +42,10 @@ let Alpsu = new CreateMan()
 Alpsu.createDay();
 ```
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=AlpSuuu&color=magenta"/>
+</div>  
+
 ## Me :)    
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/721391768255594577?theme=dark&bg=00ff7c&animated=true&hideDiscrim=false&borderRadius=1px)](https://discord.com/users/721391768255594577)
 
