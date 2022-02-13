@@ -44,6 +44,9 @@ Alpsu.createDay();
 ## Me :)    
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/721391768255594577?theme=dark&bg=00ff7c&animated=true&hideDiscrim=false&borderRadius=1px)](https://discord.com/users/721391768255594577)
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=AlpSuuu&color=red"/>
+</div>  
 *
 *
 *
@@ -86,7 +89,3 @@ Alpsu.createDay();
           <a href="https://alpsu-u-teala.glitch.me" target"blank_"><img src="https://img.shields.io/badge/Website-ff0004?style=for-the-badge&logo=google&logoColor=white"></a>
 
 </p>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=AlpSuuu&color=red"/>
-</div>  
