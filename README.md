@@ -43,7 +43,7 @@ Alpsu.createDay();
 ```
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=AlpSuuu&color=white"/>
+    <img src="https://komarev.com/ghpvc/?username=AlpSuuu&color=blue"/>
 </div>  
 
 ## Me :)    
