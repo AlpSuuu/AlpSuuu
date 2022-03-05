@@ -80,9 +80,7 @@ Alpsu.createDay();
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlpSuuu&repo=instagramDownloader&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AlpSuu instagramDownloader" />
 </a>
 <a href="https://github.com/AlpSuuu/awaiter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlpSuuu&repo=
-awaiter&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AlpSuu 
-awaiter" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlpSuuu&repo=awaiter&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AlpSuu awaiter" />
 </a>
 
 
