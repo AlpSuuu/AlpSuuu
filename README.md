@@ -5,8 +5,8 @@
 ```js
 class AlpSu {
   constructor(...options) {
-    this.height = "1.83"
-    this.weight = "63"
+    this.height = "1.84"
+    this.weight = "79"
     this.type = "human"
     this.job = "student"
     this.sex = "male"
