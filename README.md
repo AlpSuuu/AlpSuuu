@@ -1,6 +1,7 @@
-<h1 align="center">
+<div align="center">
     <img src="https://media.discordapp.net/attachments/1174071771322929253/1331417344915935252/alpsu.gif?ex=67918a87&is=67903907&hm=abcb671c19db61fde0d97a592e0e03e01a5c9d7d8da55a4a42da29ca58b8e850&" alt="AlpSu"/>
-</h1>
+</div>
+
 
 ```js
 class AlpSu {
@@ -86,10 +87,10 @@ Alpsu.createDay();
 
 <h3>🌟 Contacts!</h3>
 <p align="center">
-     <a href="https://www.instagram.com/alp.kahyaa/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+     <a href="https://www.instagram.com/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
        <a href="https://twitch.tv/AlpSuuu" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
- <a href="https://open.spotify.com/user/5ksbqa8t6kdo38dmfi8nof51z?si=7389677a8b2e44ed" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-     <a href="mailto:alpkahya868@gmail.com?body=Merhaba" target"blank_"><img src="https://img.shields.io/badge/Gmail-09ffeb?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://open.spotify.com/user/5ksbqa8t6kdo38dmfi8nof51z" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+     <a href="mailto:antoliastat@gmail.com?body=Merhaba" target"blank_"><img src="https://img.shields.io/badge/Gmail-09ffeb?style=for-the-badge&logo=gmail&logoColor=white"></a>
       <a href="https://discord.com/users/721391768255594577" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
           <a href="https://alpsu-u-teala.glitch.me" target"blank_"><img src="https://img.shields.io/badge/Website-ff0004?style=for-the-badge&logo=google&logoColor=white"></a>
 
