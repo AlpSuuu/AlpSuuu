@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn.discordapp.com/avatars/721391768255594577/a_e494944e5fd69f051a898113a56cf3c6.gif?size=4096" alt="AlpSu"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZoMmloYmlidGd3b2tlcWZlM29sanhqZXBpYm52dHFvYjljbDdlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bfRE8HMWzC4QkpAa9W/giphy.gif" alt="AlpSu"/>
 </div>
 
 ```js
