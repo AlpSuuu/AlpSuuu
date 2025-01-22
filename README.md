@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://media.discordapp.net/attachments/1174071771322929253/1331417344915935252/alpsu.gif?ex=67918a87&is=67903907&hm=abcb671c19db61fde0d97a592e0e03e01a5c9d7d8da55a4a42da29ca58b8e850&=" alt="AlpSu"/>
+    <img src="https://media.discordapp.net/attachments/1174071771322929253/1331417344915935252/alpsu.gif?ex=67918a87&is=67903907&hm=abcb671c19db61fde0d97a592e0e03e01a5c9d7d8da55a4a42da29ca58b8e850&" alt="AlpSu"/>
 </h1>
 
 ```js
